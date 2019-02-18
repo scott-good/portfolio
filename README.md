@@ -1,6 +1,6 @@
 ## Graphics, software, and more
 ### A portfolio of the work of Scott Good
-![Image](01-Homepage.jpg)
+![Image](01-TitlePage.jpg)
 
 You can use the [editor on GitHub](https://github.com/scott-good/scott-good.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
