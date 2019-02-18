@@ -86,7 +86,7 @@ IBM's Kenexa brand of talent management products had very little in the way of p
 
 ## Connections Customizer wild examples
 
-![Image](21-Customizer.jpg)
+![Image](21-CustomizerYellow.jpg)
 
 IBM Connections Customizer is an add-in product to IBM Connections which makes it possible for customers to add their own CSS and JavaScript to Connections pages to change the way they look and act. These examples were built as extreme examples of the kinds of changes that could be made...and were intentionally on the wild side.
 
