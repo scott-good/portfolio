@@ -7,12 +7,12 @@ I have a broad background that includes artistic, business, software, and speaki
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
-- Studied typography, page layout, readability, and design
+- - Studied typography, page layout, readability, and design
 - In high school, studied photography under a prodigy Pulitzer Prize runner up
 
 **Software / Computer**
 - I have been writing software since ~1970
-- 25 years of software consulting and application development experience
+- 25 years of professional software consulting and application development experience
 - Expert in most front-end web technologies
 - Deep interest in UI/UX
 
