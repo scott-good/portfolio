@@ -7,8 +7,8 @@ I have a broad background that includes artistic, business, software, and speaki
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
-- - Studied typography, page layout, readability, and design
-- In high school, studied photography under a prodigy Pulitzer Prize runner up
+-- Studied typography, page layout, readability, and design in addition to business management topics
+- In high school, I studied photography under a prodigy Pulitzer Prize runner up
 
 **Software / Computer**
 - I have been writing software since ~1970
@@ -27,18 +27,17 @@ I have a broad background that includes artistic, business, software, and speaki
 - Owned and managed several commercial printing companies
 - Founded and ran a manufacturing company building aerodynamic products for racing cars
 
-### Most importantly
-![Image](03-MyPassion.jpg)
+### I have a passion for how things look
 
 ### Lotus Notes
 ![Image](04-LotusNotes.jpg)
 
-Prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions, in Columbus, Ohio. Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
+For the 22 years prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
 
 ### PowerPoint presentations
 ![Image](05-Ceva.jpg)
 
-Shown here are three of the slides from a presentation I built for an IBM Connections pitch to CEVA Logistics. Simple, compelling graphics. Easy to read.
+Shown above are three of the slides from a presentation I built for an IBM Connections pitch to CEVA Logistics. Simple, compelling graphics. Easy to read.
 
 
 
