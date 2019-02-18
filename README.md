@@ -1,13 +1,13 @@
 ## Graphics, software, and more
-### A portfolio of the work of Scott Good
+A portfolio of the work of Scott Good
 ![Image](01-TitlePage.jpg)
 
-### A quick background
+## A quick background
 I have a broad background that includes artistic, business, software, and speaking/writing experience. These experiences inform the work I do.
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
--- Studied typography, page layout, readability, and design in addition to business management topics
+ - Studied typography, page layout, readability, and design in addition to business management topics
 - In high school, I studied photography under a prodigy Pulitzer Prize runner up
 
 **Software / Computer**
@@ -27,9 +27,11 @@ I have a broad background that includes artistic, business, software, and speaki
 - Owned and managed several commercial printing companies
 - Founded and ran a manufacturing company building aerodynamic products for racing cars
 
-### I have a passion for how things look
 
-### Lotus Notes
+## I have a passion for how things look
+
+
+## Lotus Notes
 ![Image](04-LotusNotes.jpg)
 
 For the 22 years prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
