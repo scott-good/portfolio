@@ -36,10 +36,54 @@ I have a broad background that includes artistic, business, software, and speaki
 
 For the 22 years prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
 
-### PowerPoint presentations
+## PowerPoint presentations
 ![Image](05-Ceva.jpg)
 
 Shown above are three of the slides from a presentation I built for an IBM Connections pitch to CEVA Logistics. Simple, compelling graphics. Easy to read.
+
+![Image](06-Aarons.jpg)
+
+![Image](07-PPTIntro.jpg)
+
+![Image](08-ICECOverview.jpg)
+
+![Image](09-Mears.jpg)
+
+![Image](10-WatsonWorkspace.jpg)
+
+## Customer-focused demos
+
+![Image](11-ICEC.jpg)
+
+![Image](12-Umbrellas.jpg)
+
+![Image](13-EileenFisher.jpg)
+
+![Image](14-SFBI.jpg)
+
+![Image](15-Domino10.jpg)
+
+![Image](16-Lowes.jpg)
+
+## Advertising flyers
+
+![Image](18-WatsonTalent1.jpg)
+
+![Image](19-Kenexa.jpg)
+
+## Misc software examples
+
+![Image](17-Cisco.jpg)
+
+![Image](20-Bootstrap.jpg)
+
+## Connections Customizer wild examples
+
+![Image](21-Customizer.jpg)
+
+![Image](22-CustomizerMore.jpg)
+
+![Image](23-Closing.jpg)
 
 
 
