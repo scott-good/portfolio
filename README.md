@@ -2,6 +2,47 @@
 ### A portfolio of the work of Scott Good
 ![Image](01-TitlePage.jpg)
 
+### A quick background
+I have a broad background that includes artistic, business, software, and speaking/writing experience. These experiences inform the work I do.
+
+**Graphic Arts & Photography**
+- Rochester Institute of Technology / BA in Printing Management
+- Studied typography, page layout, readability, and design
+- In high school, studied photography under a prodigy Pulitzer Prize runner up
+
+**Software / Computer**
+- I have been writing software since ~1970
+- 25 years of software consulting and application development experience
+- Expert in most front-end web technologies
+- Deep interest in UI/UX
+
+**Speaking and Writing**
+- I've presented more than 40 LotusSphere/Connect/THINK sessions on both design and technical topics
+- Have presented dozens of sessions at conferences for _Lotus Advisor_ and _The View_ magazines
+- Published more than 70 articles on primarily web development topics
+- Have written and published two full-length books (one a novel, the other on business leadership principles)
+
+**Entrepreneurial**
+- Owned and managed a software consulting & development firm for 22 years
+- Owned and managed several commercial printing companies
+- Founded and ran a manufacturing company building aerodynamic products for racing cars
+
+### Most importantly
+![Image](03-MyPassion.jpg)
+
+### Lotus Notes
+![Image](04-LotusNotes.jpg)
+
+Prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions, in Columbus, Ohio. Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
+
+### PowerPoint presentations
+![Image](05-Ceva.jpg)
+
+Shown here are three of the slides from a presentation I built for an IBM Connections pitch to CEVA Logistics. Simple, compelling graphics. Easy to read.
+
+
+
+
 You can use the [editor on GitHub](https://github.com/scott-good/scott-good.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
