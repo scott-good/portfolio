@@ -28,18 +28,17 @@ I have a broad background that includes artistic, business, software, and speaki
 - Founded and ran a manufacturing company building aerodynamic products for racing cars
 
 
-## I have a passion for how things look
-
-
 ## Lotus Notes
 ![Image](04-LotusNotes.jpg)
 
-For the 22 years prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
+For the 22 years prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. 
+
+Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
 
 ## PowerPoint presentations
 ![Image](05-Ceva.jpg)
 
-Shown above are three of the slides from a presentation I built for an IBM Connections pitch to CEVA Logistics. Simple, compelling graphics. Easy to read.
+Shown above and below are a variety slides from a range of PowerPoint presentations I built to promote our products. Throughout, you'll find simple, compelling graphics with easy-to-understand copy.
 
 ![Image](06-Aarons.jpg)
 
@@ -51,11 +50,12 @@ Shown above are three of the slides from a presentation I built for an IBM Conne
 
 ![Image](10-WatsonWorkspace.jpg)
 
+
 ## Customer-focused demos
 
 ![Image](11-ICEC.jpg)
 
-![Image](12-Umbrellas.jpg)
+Above and below are screen shots of a variety of customized demonstrations I created for a range of clients.
 
 ![Image](13-EileenFisher.jpg)
 
@@ -65,21 +65,30 @@ Shown above are three of the slides from a presentation I built for an IBM Conne
 
 ![Image](16-Lowes.jpg)
 
+
 ## Advertising flyers
 
 ![Image](18-WatsonTalent1.jpg)
 
+IBM's Kenexa brand of talent management products had very little in the way of printed promotional materials worth showing to customers. At the request of one of my sellers I wrote, designed, and created the two flyers shown above and the 4-page flyer shown below (only 3 pages shown here).
+
 ![Image](19-Kenexa.jpg)
+
 
 ## Misc software examples
 
 ![Image](17-Cisco.jpg)
 
+![Image](12-Umbrellas.jpg)
+
 ![Image](20-Bootstrap.jpg)
+
 
 ## Connections Customizer wild examples
 
 ![Image](21-Customizer.jpg)
+
+IBM Connections Customizer is an add-in product to IBM Connections which makes it possible for customers to add their own CSS and JavaScript to Connections pages to change the way they look and act. These examples were built as extreme examples of the kinds of changes that could be made...and were intentionally on the wild side.
 
 ![Image](22-CustomizerMore.jpg)
 
@@ -88,38 +97,3 @@ Shown above are three of the slides from a presentation I built for an IBM Conne
 
 
 
-You can use the [editor on GitHub](https://github.com/scott-good/scott-good.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scott-good/scott-good.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
