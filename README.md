@@ -94,6 +94,9 @@ IBM Connections Customizer is an add-in product to IBM Connections which makes i
 
 ![Image](23-Closing.jpg)
 
+## DQL Explorer
 
+![Image](DQLExplorer.jpg)
 
+View the [DQL Explorer](https://www.youtube.com/embed/Cfw_6Wvk8c8) overview video.
 
