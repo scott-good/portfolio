@@ -100,5 +100,7 @@ IBM Connections Customizer is an add-in product to IBM Connections which makes i
 
 The DQL Explorer is a joint project between myself and Dimitri Prosper. Built using React for the UI and a Notes database for storage and some functionality, it provides a means for non-developers to use Domino Query Language to easily search and return data from Domino databases.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cfw_6Wvk8c8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 View the [DQL Explorer](https://www.youtube.com/embed/Cfw_6Wvk8c8) overview video.
 
