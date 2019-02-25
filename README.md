@@ -38,7 +38,7 @@ Although Notes is widely criticized for its outdated user interface, there is no
 ## PowerPoint presentations
 ![Image](05-Ceva.jpg)
 
-Shown above and below are a variety slides from a range of PowerPoint presentations I built to promote our products. Throughout, you'll find simple, compelling graphics with easy-to-understand copy.
+Shown above and below are a variety slides from a range of PowerPoint presentations I built to promote our products at IBM. Throughout, you'll find simple, compelling graphics with easy-to-understand copy.
 
 ![Image](06-Aarons.jpg)
 
