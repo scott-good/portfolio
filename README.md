@@ -3,7 +3,7 @@ A portfolio of the work of Scott Good
 ![Image](01-TitlePage.jpg)
 
 ## A quick background
-I have a broad background that includes artistic, business, software, and speaking/writing experience. These experiences inform the work I do.
+I have a broad background that includes artistic, business, software, and speaking/writing experience. Collectively, these inform the work I do.
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
