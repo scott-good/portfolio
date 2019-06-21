@@ -3,7 +3,7 @@ A portfolio of the work of Scott Good
 ![Image](01-TitlePage.jpg)
 
 ## A quick background
-I have a broad background that includes artistic, business, software, and speaking/writing experience. I am both technical and aesthetic, an engineer as well as a graphic designer. The combination of these experiences and skills lets me both design and build beautiful and compelling things. Whether those things are innovative user interfaces, compelling PowerPoint presentations, or breakthrough advertising materials, the result is always the same: a logical, usable, and organized layout; easily understandable copy; and always, a beautiful look and feel.
+I have a broad background that includes artistic, business, software, and speaking/writing experience. I am both technical and aesthetic, an engineer as well as a graphic designer. The combination of these experiences and skills lets me both design and build beautiful and compelling things. Whether those things are innovative user interfaces, compelling PowerPoint presentations, or breakthrough advertising materials, the result is always the same: a logical, usable, and organized layout; easily understandable copy; and, always, a beautiful look and feel.
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
@@ -20,7 +20,7 @@ I have a broad background that includes artistic, business, software, and speaki
 **Speaking and Writing**
 - I've presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events
 - I have presented dozens of sessions at conferences for _Lotus Advisor_ and _The View_ magazines
-- Published more than 60 articles on primarily web development topics
+- Published more than 70 articles on primarily web development topics
 - Have written and published [two full-length books](https://www.amazon.com/Scott-Good/e/B009CE01Y0%3Fref=dbs_a_mng_rwt_scns_share) (one a novel, the other on business leadership principles)
 
 **Entrepreneurial**
