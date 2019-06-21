@@ -3,27 +3,28 @@ A portfolio of the work of Scott Good
 ![Image](01-TitlePage.jpg)
 
 ## A quick background
-I have a broad background that includes artistic, business, software, and speaking/writing experience. Collectively, these inform the work I do.
+I have a broad background that includes artistic, business, software, and speaking/writing experience. I am both technical and aesthetic, an engineer as well as a graphic designer. The combination of these experiences and skills lets me both design and build beautiful and compelling things. Whether those things are innovative user interfaces, compelling PowerPoint presentations, or breakthrough advertising materials, the result is always the same: a logical, usable, and organized layout; easily understandable copy; and always, a beautiful look and feel.
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
- - Studied typography, page layout, readability, and design in addition to business management topics
+ - Studied typography, page layout, readability, and design, in addition to business management topics
 - In high school, I studied photography under a prodigy Pulitzer Prize runner up
 
 **Software / Computer**
-- I have been writing software since ~1970
-- 25 years of professional software consulting and application development experience
+- Deep experience in custom web software development
 - Expert in most front-end web technologies
+ - In particular HTML, CSS, JavaScript and related technologies
 - Deep interest in UI/UX
+ - I build beautiful, compelling, and usable interfaces
 
 **Speaking and Writing**
-- I've presented more than 40 LotusSphere/Connect/THINK sessions on both design and technical topics
-- Have presented dozens of sessions at conferences for _Lotus Advisor_ and _The View_ magazines
-- Published more than 70 articles on primarily web development topics
-- Have written and published two full-length books (one a novel, the other on business leadership principles)
+- I've presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events
+- I have presented dozens of sessions at conferences for _Lotus Advisor_ and _The View_ magazines
+- Published more than 60 articles on primarily web development topics
+- Have written and published [two full-length books](https://www.amazon.com/Scott-Good/e/B009CE01Y0%3Fref=dbs_a_mng_rwt_scns_share) (one a novel, the other on business leadership principles)
 
 **Entrepreneurial**
-- Owned and managed a software consulting & development firm for 22 years
+- Owned and managed a software consulting & development firm
 - Owned and managed several commercial printing companies
 - Founded and ran a manufacturing company building aerodynamic products for racing cars
 
@@ -31,9 +32,9 @@ I have a broad background that includes artistic, business, software, and speaki
 ## Lotus Notes
 ![Image](04-LotusNotes.jpg)
 
-For the 22 years prior to joining IBM in 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. 
+Prior to joining IBM, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. My partner and I were introduced to Notes in its infancy but immediately understood how important it could become to businesses of all size. We ended up as one of the first 200 business partners worldwide (a group that eventually grew to more than 20,000). We installed the first Lotus Notes servers and custom applications in dozens of the world's largest corporations and, at one point, were identified as one of the 5-largest influencers of Lotus Notes sales among Lotus Business Partners around the globe.
 
-Although Notes is widely criticized for its outdated user interface, there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
+These days, Notes is widely criticized for its outdated user interface and yet there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
 
 ## PowerPoint presentations
 ![Image](05-Ceva.jpg)
