@@ -58,7 +58,7 @@ Shown above and below are a variety slides from a range of PowerPoint presentati
 
 In 2017 IBM added the IBM Connections Engagement Center (ICEC) to our list of offerings. It was a portal-like front-end for IBM Connections that offered users the ability to create and insert their own CSS and JavaScript to make the pages match their corporate standards (or just to make it look better). Above is an example of the awful ICEC pages that were provided to us to try to sell from.
 
-Below are four examples of customized ICEC demonstration pages I created by leveraging the inherent capabilities of the platform and my own extensive knowledge of CSS.
+Below are four examples of customized ICEC demonstration pages I created by leveraging the inherent capabilities of the platform and my own extensive knowledge of CSS and JavaScript.
 
 ![Image](11-ICEC.jpg)
 
@@ -67,8 +67,6 @@ Below are four examples of customized ICEC demonstration pages I created by leve
 ![Image](14-SFBI.jpg)
 
 ![Image](15-Domino10.jpg)
-
-![Image](16-Lowes.jpg)
 
 
 ## Advertising flyers
