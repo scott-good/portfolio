@@ -32,7 +32,7 @@ I have a broad background that includes artistic, business, software, and speaki
 ## Lotus Notes
 ![Image](04-LotusNotes.jpg)
 
-Prior to joining IBM, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. My partner and I were introduced to Notes in its infancy but immediately understood how important it could become to businesses of all size. We ended up as one of the first 200 business partners worldwide (a group that eventually grew to more than 20,000). We installed the first Lotus Notes servers and custom applications in dozens of the world's largest corporations and, at one point, were identified as one of the 5-largest influencers of Lotus Notes sales among Lotus Business Partners around the globe.
+Prior to joining IBM, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. My partner and I were introduced to Notes in its infancy but immediately understood how important it could become to businesses of all size. We ended up as one of the first 200 business partners worldwide (a group that eventually grew to more than 20,000). We installed the first Lotus Notes servers and custom applications in dozens of the world's largest corporations and at one point were identified by Lotus as one of the 5-largest influencers of Lotus Notes sales among Lotus Business Partners around the globe.
 
 These days, Notes is widely criticized for its outdated user interface and yet there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
 
