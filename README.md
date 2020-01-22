@@ -19,9 +19,12 @@ I have a broad background that includes artistic, business, software, and speaki
 
 **Speaking and Writing**
 - I've presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events
-- I have presented dozens of sessions at conferences for _Lotus Advisor_ and _The View_ magazines
+- Given dozens of sessions at conferences for _Lotus Advisor_ and _The View_ magazines
 - Published more than 70 articles on primarily web development topics
-- Have written and published [two full-length books](https://www.amazon.com/Scott-Good/e/B009CE01Y0%3Fref=dbs_a_mng_rwt_scns_share) (one a novel, the other on business leadership principles)
+- Wrote and published [two full-length books](https://www.amazon.com/Scott-Good/e/B009CE01Y0%3Fref=dbs_a_mng_rwt_scns_share) (one a novel, the other on business leadership principles)
+- Designed and developed all UI for new Progressive Web Apps book (https://www.amazon.com/Learning-Progressive-Apps-John-Wargo/dp/0136484220)
+- Currently co-writing a book on Flutter, Google's cross platform app development language.
+
 
 **Entrepreneurial**
 - Owned and managed a software consulting & development firm
