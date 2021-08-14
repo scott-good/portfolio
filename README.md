@@ -103,6 +103,6 @@ IBM Connections Customizer was an add-in product to IBM Connections which made i
 
 ![Image](DQLExplorer.jpg)
 
-The DQL Explorer was a joint project between [Dimitri Prosper](https://dprosper.github.io) and myself from our time at IBM. Dimitri built the back end, while I was responsible for all aspects of the user interface, both look-and-feel and functionality. Built as a web-based UI using React and an IBM Notes-based database for storage and configuration, note that this is not the typical throw-anything-together-just-to-show-it-can-work UI of most proofs-of-concept. Instead, the user interface is clean, well laid-out, and easy to understand. Complex functionality under the covers is exposed as a simple, easy to use, interface.
+The DQL Explorer was a joint project between [Dimitri Prosper](https://dprosper.github.io) and myself from our time at IBM. Dimitri built the back end, while I was responsible for all aspects of the user interface, both in terms of look-and-feel and functionality. Built as a web-based UI using React and an IBM Notes-based database for storage and configuration, note that this is not the typical throw-anything-together-just-to-show-it-can-work UI of most proofs-of-concept. Instead, the user interface is clean, well laid-out, and easy to understand. Complex functionality under the covers is exposed as a simple, easy to use, interface.
 
 You can watch a [DQL Explorer Demo](https://www.youtube.com/embed/Cfw_6Wvk8c8) I recorded some years ago. 
