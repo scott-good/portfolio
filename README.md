@@ -3,7 +3,7 @@ A portfolio of the work of Scott Good
 ![Image](01-TitlePage.jpg)
 
 ## A quick background
-I have a broad background that includes artistic, business, software, and speaking/writing experience. I am both technical and aesthetic, an engineer as well as a graphic designer. The combination of these experiences and skills lets me both design and build beautiful and compelling things. Whether those things are innovative user interfaces, compelling PowerPoint presentations, or breakthrough advertising materials, the result is always the same: a logical, usable, and organized layout; easily understandable copy; and, always, a beautiful look and feel.
+I have a broad background which includes artistic, business, software, and speaking/writing experience. I am both technical and aesthetic, an engineer as well as a graphic designer. The combination of these experiences and skills lets me both design and build beautiful and compelling things. Whether those things are innovative user interfaces, compelling PowerPoint presentations, or breakthrough advertising materials, the result is always the same: a logical, usable, and organized layout; easily understandable copy; and, always, a beautiful look and feel.
 
 Why does that matter? 
 
@@ -102,7 +102,6 @@ IBM Connections Customizer is an add-in product to IBM Connections which makes i
 
 ![Image](DQLExplorer.jpg)
 
-The DQL Explorer is a joint project between [Dimitri Prosper](https://dprosper.github.io) and myself. Built as a web-based UI using React on the front end and a Notes-based database for storage and some configuration functionality, it provides a means for non-developers to use Domino Query Language to easily search and return data from Domino databases.
+The DQL Explorer was a joint project between [Dimitri Prosper](https://dprosper.github.io) and myself from our time at IBM. Dimitri built the back end, while I was responsible for all aspects of the user interface, both look-and-feel and functionality. Built as a web-based UI using React and an IBM Notes-based database for storage and configuration, note that this is not the typical throw-anything-together-just-to-show-it-can-work UI of most proofs-of-concept. Instead, the user interface is clean, well laid-out, and easy to understand. Complex functionality under the covers is exposed as a simple, easy to use, interface.
 
-View the [DQL Explorer](https://www.youtube.com/embed/Cfw_6Wvk8c8) overview video.
-
+You can watch a [DQL Explorer Demo](https://www.youtube.com/embed/Cfw_6Wvk8c8) I recorded some years ago. 
