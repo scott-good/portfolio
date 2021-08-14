@@ -23,6 +23,11 @@ My strength--my superpower, you might say--is being able to create products and 
 - Deep interest in UI/UX
  - I build beautiful, compelling, and usable interfaces
 
+**Advertising and Sales**
+- Awarded the Printing Industries of America's *Marketing Excellence Award*, their highest honor for marketing success in the commercial printing business.
+- Created award-winning advertising materials for a range of manufacturing and software organizations
+- Graduate with Distinction (highest 5%), IBM Global Sales School
+
 **Speaking and Writing**
 - Presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events, and dozens more at smaller conferences for _Lotus Advisor_ and _The View_ magazines as well as national, regional, and local user groups.
 - Published more than 70 full-length articles on a range of web development topics including HTML, JavaScript, CSS, AJAX, JSON, Java Server Pages, and more.
