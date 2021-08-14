@@ -29,7 +29,7 @@ My strength--my superpower, you might say--is being able to create products and 
 - Graduate with Distinction (highest 5%), IBM Global Sales School
 
 **Speaking and Writing**
-- Presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events, and dozens more at smaller conferences for _Lotus Advisor_ and _The View_ magazines as well as national, regional, and local user groups.
+- Presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events, as well as dozens more at smaller conferences for _Lotus Advisor_ and _The View_ magazines as well as national, regional, and local user groups.
 - Published more than 70 full-length articles on a range of web development topics including HTML, JavaScript, CSS, AJAX, JSON, Java Server Pages, and more.
 - Wrote and published [two full-length books](https://www.amazon.com/Scott-Good/e/B009CE01Y0%3Fref=dbs_a_mng_rwt_scns_share) (one a novel, the other on business leadership principles)
 - Designed and developed all UIs for new Progressive Web Apps book (https://www.amazon.com/Learning-Progressive-Apps-John-Wargo/dp/0136484220)
