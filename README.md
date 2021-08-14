@@ -17,8 +17,8 @@ My strength--my superpower, you might say--is being able to create products and 
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
- - Studied typography, page layout, readability, and design, in addition to business management topics
-- In high school, I studied photography under a prodigy Pulitzer Prize runner up
+- In addition to business management topics, I focused on typography, page layout, readability, and design
+- In high school, studied photography under a prodigy Pulitzer Prize runner up
 
 **Software / Computer**
 - Deep experience in custom web software development
