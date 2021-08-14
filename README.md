@@ -42,7 +42,7 @@ My strength--my superpower, you might say--is being able to create products and 
 ## Lotus Notes
 ![Image](04-LotusNotes.jpg)
 
-From 1993 until 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. These days, Notes is widely criticized for its outdated user interface and yet there is no reason Lotus Notes applications have to look bad. Shown here are four examples I built as far back as 2005.
+From 1993 until 2015, I was one of two owners of one of the earliest Lotus Notes Business Partners, Teamwork Solutions. These days, Notes is widely criticized for its outdated user interface and yet there is no reason Lotus Notes applications have to look bad or be hard to use. Shown here are four examples I built as far back as 2005.
 
 ## PowerPoint presentations
 ![Image](05-Ceva.jpg)
