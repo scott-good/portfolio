@@ -3,13 +3,17 @@ A portfolio of the work of Scott Good
 ![Image](01-TitlePage.jpg)
 
 ## A quick background
-I have a broad background which includes artistic, business, software, and speaking/writing experience. I am both technical and aesthetic, an engineer as well as a graphic designer. The combination of these experiences and skills lets me both design and build beautiful and compelling things. Whether those things are innovative user interfaces, compelling PowerPoint presentations, or breakthrough advertising materials, the result is always the same: a logical, usable, and organized layout; easily understandable copy; and, always, a beautiful look and feel.
+I have a broad background which includes artistic, business, software, and speaking/writing experience. I am both technical and aesthetic, an engineer as well as a graphic designer. The combination of these experiences and skills lets me both design and build beautiful and compelling things. 
+
+Whether those things are innovative user interfaces, compelling PowerPoint presentations, or breakthrough advertising materials, the result is always the same: a logical, usable, and organized layout; easily understandable copy; and, always, a beautiful look and feel.
 
 Why does that matter? 
 
-Because it's not enough to just build a great product, or provide a wonderful service. It also matters how you introduce that producct or service to potential customers, influencers, partners, and others. When your momma said "first impressions matter," she wasn't just talking about combing your hair and wearing a clean shirt. The presentations we give, the advertising materials we produce, and the actual look, feel, and ease of usability of the products we offer have as much to do with building acceptance as any actual features and functions. 
+Because it's not enough to just build a great product, or provide a wonderful service. It also matters how you introduce that producct or service to potential customers, influencers, partners, and others. 
 
-My strength--my superpower, you might say--is being able to create products and promotional materials that speak to buyers. It's really true, looks matter.
+When your momma said "first impressions matter," she wasn't just talking about combing your hair and wearing a clean shirt. The presentations we give, the advertising materials we produce, and the actual look, feel, and ease of usability of the products we offer have as much to do with building acceptance as any actual features and functions. 
+
+My strength--my superpower, you might say--is being able to create products and promotional materials that speak to buyers. It's really true, looks do matter.
 
 **Graphic Arts & Photography**
 - Rochester Institute of Technology / BA in Printing Management
