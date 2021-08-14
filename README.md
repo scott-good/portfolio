@@ -24,19 +24,15 @@ My strength--my superpower, you might say--is being able to create products and 
  - I build beautiful, compelling, and usable interfaces
 
 **Speaking and Writing**
-- I've presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events
-- Given dozens of sessions at conferences for _Lotus Advisor_ and _The View_ magazines
-- Published more than 70 articles on primarily web development topics
+- Presented more than 40 sessions on both design and technical topics at international conferences including IBM's THINK, Connect, and LotusSphere events, and dozens more at smaller conferences for _Lotus Advisor_ and _The View_ magazines as well as national, regional, and local user groups.
+- Published more than 70 full-length articles on a range of web development topics including HTML, JavaScript, CSS, AJAX, JSON, Java Server Pages, and more.
 - Wrote and published [two full-length books](https://www.amazon.com/Scott-Good/e/B009CE01Y0%3Fref=dbs_a_mng_rwt_scns_share) (one a novel, the other on business leadership principles)
-- Designed and developed all UI for new Progressive Web Apps book (https://www.amazon.com/Learning-Progressive-Apps-John-Wargo/dp/0136484220)
-- Currently co-writing a book on Flutter, Google's cross platform app development language.
-
+- Designed and developed all UIs for new Progressive Web Apps book (https://www.amazon.com/Learning-Progressive-Apps-John-Wargo/dp/0136484220)
 
 **Entrepreneurial**
-- Owned and managed a software consulting & development firm
-- Owned and managed several commercial printing companies
-- Founded and ran a manufacturing company building aerodynamic products for racing cars
-
+- Founded and managed a software consulting & development firm including a team comprised of more than 35 developers, administrators, and account managers
+- Owned and managed two mid-sized (100+ employees) commercial printing companies
+- Founded and managed a small manufacturing company focused on carbon fiber wings and aerodynamic products for racing cars
 
 ## Lotus Notes
 ![Image](04-LotusNotes.jpg)
@@ -63,7 +59,7 @@ Shown above and below are a variety slides from a range of PowerPoint presentati
 
 ![Image](13-EileenFisher.jpg)
 
-In 2017 IBM added the IBM Connections Engagement Center (ICEC) to our list of offerings. It was a portal-like front-end for IBM Connections that offered users the ability to create and insert their own CSS and JavaScript to make the pages match their corporate standards (or just to make it look better). 
+In 2017 IBM added the IBM Connections Engagement Center (ICEC) to our list of offerings. It was a portal-like front-end for IBM Connections that offered users the ability to create and insert their own CSS and JavaScript to make the pages match their corporate standards (or just to make it look better). Unfortunately, the out-of-the-box UI that came with the product was embarrassingly bad, so I was charged with building compelling demos for the entire North American team to use.
 
 Above and below are three examples of customized ICEC demonstration pages I created using the same tools by leveraging the inherent capabilities of the platform and my own extensive knowledge of CSS and JavaScript.
 
@@ -94,7 +90,7 @@ IBM's Kenexa brand of talent management products had very little in the way of p
 
 ![Image](21-CustomizerYellow.jpg)
 
-IBM Connections Customizer is an add-in product to IBM Connections which makes it possible for customers to add their own CSS and JavaScript to Connections pages to change the way they look and act. These examples were built as extreme examples of the kinds of changes that could be made...and were intentionally on the wild side.
+IBM Connections Customizer was an add-in product to IBM Connections which made it possible for customers to add their own CSS and JavaScript to Connections pages to change the way they looked and acted. These examples were built as extreme examples of the kinds of changes that could be made...and were intentionally on the wild side. In both examples you can see the before and after versions of the same page.
 
 ![Image](22-CustomizerMore.jpg)
 
