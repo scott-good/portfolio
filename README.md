@@ -9,9 +9,9 @@ Whether those things are innovative user interfaces, compelling PowerPoint prese
 
 Why does that matter? 
 
-Because it's not enough to just build a great product, or provide a wonderful service. It also matters how you introduce that producct or service to potential customers, influencers, partners, and others. 
+Because it's not enough just to build a great product, or provide a wonderful service. It also matters how you introduce that producct or service to potential customers, influencers, partners, and others. 
 
-When your momma said "first impressions matter," she wasn't just talking about combing your hair and wearing a clean shirt. The presentations we give, the advertising materials we produce, and the actual look, feel, and ease of usability of the products we offer have as much to do with building acceptance as any actual features and functions. 
+When your momma said "first impressions matter," she wasn't just talking about combing your hair and wearing a clean shirt. The presentations we give, the advertising materials we produce, and the actual look, feel, and ease of use of the products we offer have as much to do with building acceptance as any actual features and functions. 
 
 My strength--my superpower, you might say--is being able to create products and promotional materials that speak to buyers. It's really true, looks do matter.
 
